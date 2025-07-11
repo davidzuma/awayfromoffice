@@ -1,3 +1,15 @@
+# Node and Next.js
+.next/
+node_modules/
+package-lock.json
+
+# Local env and config
+.env
+.env.*
+
+# VSCode
+.vscode/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
