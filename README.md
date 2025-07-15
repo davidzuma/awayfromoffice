@@ -48,7 +48,7 @@ A Next.js travel planning application that uses the Perplexity API to provide co
    - Your Perplexity API key is already configured in the `.env` file
    - Make sure the `.env` file contains:
      ```
-     PPX_API_KEY='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'
+     PPX_API_KEY='your-perplexity-api-key-here'
      ```
 
 3. **Run the Development Server**
